@@ -593,6 +593,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[mcps-playground](https://mcpsplayground.com/chat)** a playground for Remote MCP servers
 
 ## Frameworks
+- **[Hashgraph Online Standards SDK](https://github.com/hashgraph-online/standards-sdk)** - TypeScript SDK for building trustless AI agent identity, discovery, and P2P communication with MCP-compatible registry bridging.
 
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
