@@ -1,0 +1,12 @@
+name: Validate Skill
+on:
+  pull_request:
+    paths:
+      - SKILL.md
+      - skill.json
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: hashgraph-online/skill-publish@v1
